@@ -110,7 +110,7 @@ The analysis revealed several significant patterns:
 - Create an interactive dashboard using tools like Streamlit or Dash
 
 ## Author
-[Your Name]
+Presley Oluoch
 
 ## Acknowledgments
 - Our World in Data for providing comprehensive COVID-19 statistics
